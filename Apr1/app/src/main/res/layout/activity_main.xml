@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="600sp"
-
+        android:backgroundTint="@color/te"
         android:text="Test2" />
 
     <Button
@@ -34,6 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="550sp"
+        android:backgroundTint="@color/t"
         android:text="Test1" />
 
 </RelativeLayout>
