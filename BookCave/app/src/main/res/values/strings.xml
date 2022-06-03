@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookcave</string>
+    <string name="search_view_hint">search_view_hint</string>
+    <string name="search_hint">search_hint</string>
+    <string name="search_button_name">search_button_name</string>
+    <string name="no_internet_connection">no_internet_connection</string>
+</resources>

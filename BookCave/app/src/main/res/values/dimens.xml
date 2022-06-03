@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8_dp">margin_8_dp</dimen>
+    <dimen name="margin_16_dp">margin_16_dp</dimen>
+    <dimen name="image_view_width">image_view_width</dimen>
+    <dimen name="author_text_size">author_text_size</dimen>
+    <dimen name="title_text_size">title_text_size</dimen>
+    <dimen name="language_code_text_size">language_code_text_size</dimen>
+</resources>
