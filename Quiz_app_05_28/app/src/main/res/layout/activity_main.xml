@@ -10,17 +10,17 @@
     tools:context="com.example.quiz_app_05_28.MainActivity"
     >
 
-<!--    <TextView-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/quizapp"-->
-<!--        android:layout_marginTop="48dp"-->
-<!--        android:textSize="60dp"-->
-<!--        android:id="@+id/textView"-->
-<!--        android:layout_alignParentTop="true"-->
-<!--        android:layout_alignLeft="@+id/editName"-->
-<!--        android:layout_alignStart="@+id/editName"-->
-<!--        android:textColor="#433C3B" />-->
+    <!--    <TextView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:text="@string/quizapp"-->
+    <!--        android:layout_marginTop="48dp"-->
+    <!--        android:textSize="60dp"-->
+    <!--        android:id="@+id/textView"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:layout_alignLeft="@+id/editName"-->
+    <!--        android:layout_alignStart="@+id/editName"-->
+    <!--        android:textColor="#433C3B" />-->
 
     <ImageView
         android:id="@+id/imageView2"
@@ -43,12 +43,12 @@
         android:layout_above="@+id/button2"
         android:layout_alignStart="@+id/editName"
         android:layout_alignLeft="@+id/editName"
-        android:layout_marginStart="4dp"
-        android:layout_marginLeft="4dp"
-        android:layout_marginBottom="9dp"
-        android:background="#FF5722"
+        android:layout_marginStart="-83dp"
+        android:layout_marginLeft="-83dp"
+        android:layout_marginBottom="-47dp"
+        android:backgroundTint="#ffffff"
         android:text="Start"
-        android:textColor="#ffffff"
+        android:textColor="#000"
         android:textSize="20dp" />
 
     <EditText
@@ -69,8 +69,10 @@
         android:layout_alignStart="@+id/button"
         android:layout_alignLeft="@+id/button"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="37dp"
-        android:background="#01579B"
+        android:layout_marginStart="214dp"
+        android:layout_marginLeft="214dp"
+        android:layout_marginBottom="73dp"
+        android:backgroundTint="#01579B"
         android:text="About"
         android:textColor="#ffffff"
         android:textSize="20dp" />

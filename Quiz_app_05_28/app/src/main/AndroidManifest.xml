@@ -22,7 +22,7 @@
         <activity android:name=".QuestionsActivity"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.example.vikasojha.quizbee.QuestionsActivity" />
+                <action android:name="com.example.quiz_app_05_28.QuestionsActivity" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -30,7 +30,7 @@
         <activity android:name=".DeveloperActivity"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.example.vikasojha.quizbee.DeveloperActivity" />
+                <action android:name="com.example.quiz_app_05_28.DeveloperActivity" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>

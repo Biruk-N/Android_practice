@@ -71,7 +71,7 @@
         android:layout_below="@+id/answersgrp"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:background="#FF5722"
+        android:backgroundTint="#FF5722"
         android:textColor="#ffffff"/>
 
     <Button
@@ -83,7 +83,7 @@
         android:layout_below="@+id/button3"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:background="#01579B"
+        android:backgroundTint="#01579B"
         android:textColor="#ffffff" />
 
     <TextView
